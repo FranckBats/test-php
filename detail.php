@@ -13,7 +13,7 @@ $articleRow = $articles[$key];
 
 <a href="../index.php">Cliquez ici pour revenir à l'accueil</a>
 
-<h1>Détail de l'article n° : <?= $articleRow['id'] ?></h1>
+<h1>Détail de l'article n° <?= $articleRow['id'] ?></h1>
 
 <h3>publié le <?= $articleRow['date'];?> par <?= $articleRow['author'];?></h3>
 
