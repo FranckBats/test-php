@@ -9,7 +9,7 @@ include 'include_data.php';
 
 <!-- 
 Boucle sur le tableau principal, la clé du tableau n'a pas d'utilité dans cette étape 
-Je la stocke dans variable $key mais je souhaite utilise le tableau en sa valeur qui contien toutes les infos de l'article 
+Je la stocke dans la variable $key mais je souhaite utilise le tableau en sa valeur qui contient toutes les infos de l'article 
 En suite, récupération des valeurs finales en indiquant les chaînes de caractères correspondantes
 -->
 

@@ -3,7 +3,7 @@
 // Inclusion du fichier de data
 include 'include_data.php';
 
-// Vu que j'ai transmis l'id dans l'url je la récupère avec la superglobale $_GET
+// Vu que j'ai transmis l'id dans l'URL je la récupère avec la superglobale $_GET
 $key = $_GET['key'];
 
 // Je vais chercher l'article correspondant grâce à son id et je le mets dans une variable pour l'utiliser dans le HTML
